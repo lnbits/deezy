@@ -1,5 +1,5 @@
 # Deezy: Home for Lightning Liquidity
-`Author:` <a href="https://github.com/lnbits">`dannydeezy`</a>
+`Author:` <a href="https://github.com/dannydeezy">`dannydeezy`</a>
 <br/>
 Swap lightning bitcoin for on-chain bitcoin to get inbound liquidity. Or get an on-chain deposit address for your lightning address.
 * [Website](https://deezy.io)
