@@ -1,4 +1,6 @@
-# Deezy: Home for Lightning Liquidity
+# Deezy: Home for Lightning Liquidity - <small>[LNbits](https://github.com/lnbits/lnbits) extension</small>
+<small>For more about LNBits extension check [this tutorial](https://github.com/lnbits/lnbits/wiki/LNbits-Extensions)</small>
+
 `Author:` <a href="https://github.com/dannydeezy">`dannydeezy`</a>
 <br/>
 Swap lightning bitcoin for on-chain bitcoin to get inbound liquidity. Or get an on-chain deposit address for your lightning address.
