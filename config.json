@@ -1,7 +1,7 @@
 {
   "name": "Deezy",
   "short_description": "LN to onchain, onchain to LN swaps",
-	"tile": "/deezy/static/deezy.png",
+  "tile": "/deezy/static/deezy.png",
   "contributors": ["Uthpala"],
-  "min_lnbits_version": "0.XX.0"
+  "min_lnbits_version": "0.11.0"
 }
