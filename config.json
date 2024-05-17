@@ -2,6 +2,35 @@
   "name": "Deezy",
   "short_description": "LN to onchain, onchain to LN swaps",
   "tile": "/deezy/static/deezy.png",
-  "contributors": ["Uthpala"],
-  "min_lnbits_version": "0.11.0"
+  "min_lnbits_version": "0.11.0",
+  "contributors": [
+    {
+      "name": "Uthpala",
+      "uri": "https://github.com/Uthpala",
+      "role": "Contributor"
+    },
+    {
+      "name": "dannydeezy",
+      "uri": "https://github.com/dannydeezy",
+      "role": "Contributor"
+    },
+    {
+      "name": "talvasconcelos",
+      "uri": "https://github.com/talvasconcelos",
+      "role": "Contributor"
+    },
+    {
+      "name": "arcbtc",
+      "uri": "https://github.com/arcbtc",
+      "role": "Contributor"
+    }
+  ],
+  "images": [
+    {
+      "uri": "https://raw.githubusercontent.com/lnbits/deezy/main/static/1.png"
+    }
+  ],
+  "description_md": "https://raw.githubusercontent.com/lnbits/deezy/main/description.md",
+  "terms_and_conditions_md": "https://raw.githubusercontent.com/lnbits/deezy/main/toc.md",
+  "license": "MIT"
 }
